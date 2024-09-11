@@ -14,7 +14,7 @@ Advent of Code 2023 🎄 🎅
 | #9 |  [cpp](./09_cpp/) | :heavy_check_mark: | :heavy_check_mark: |
 | #10 |  [cpp](./10_cpp/) | :heavy_check_mark: | :x: |
 | #11 |  [cpp](./11_cpp/) | :heavy_check_mark: | :heavy_check_mark: |
-| #12 |  [cpp](./12_cpp/) | ::interrobang: | :x: |
+| #12 |  [cpp](./12_cpp/) | :interrobang: | :x: |
 | #13 | - | :x: | :x: |
 | #14 | - | :x: | :x: |
 | #15 | - | :x: | :x: |
