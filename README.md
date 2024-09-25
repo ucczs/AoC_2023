@@ -22,7 +22,7 @@ Advent of Code 2023 🎄 🎅
 | #17 | - | :x: | :x: |
 | #18 | - | :x: | :x: |
 | #19 |  [cpp](./19_cpp/) | :heavy_check_mark: | :heavy_check_mark: |
-| #20 | - | :x: | :x: |
+| #20 |  [cpp](./20_cpp/) | :interrobang: | :x: |
 | #21 | - | :x: | :x: |
 | #22 | - | :x: | :x: |
 | #23 | - | :x: | :x: |
